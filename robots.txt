@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://oqazaoxe.github.io/AtT/sitemap_index.txt
+Sitemap: https://oqazaoxe.github.io/Eul/sitemap_index.txt
+Sitemap: https://oqazaoxe.github.io/YPv/sitemap_index.txt
+Sitemap: https://oqazaoxe.github.io/sXH/sitemap_index.txt
